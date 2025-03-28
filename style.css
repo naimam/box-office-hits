@@ -1,10 +1,21 @@
-.tableauPlaceholder {
-  /* height: 500px;
-  width: 30%; */
-}
 
-h1, h2, h3, p {
-  text-align: center;
-  font-family: 'Arial', sans-serif;
-  color: #333;
-}
+body {
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+    color: #333;
+  }
+  .embed-container {
+    position: relative;
+    width: 80%;
+    overflow: hidden;
+    margin : 0 auto;
+
+  }
+  
+  .tableauPlaceholder {
+    height: 500px;
+   
+  }
