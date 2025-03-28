@@ -1,4 +1,4 @@
-# box-office-hits
+# Box-office-hits
 
 Contributors: Renee Garg, David Lu, Yashasvini Pratyaqsha, Naima Mohamed
 
